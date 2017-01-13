@@ -55,6 +55,7 @@ A dataset with a selection of movies, `movie_selection`, is available in the wor
 - Use `str()` for the first instruction.
 - For the second instruction, you should use `...[movie_selection$Rating >= 5, ]`.
 - For the plot, use `plot(x = ..., y = ..., col = ...)`.
+- Test
 
 *** =pre_exercise_code
 ```{r}
